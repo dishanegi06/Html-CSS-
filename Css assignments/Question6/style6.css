@@ -1,0 +1,10 @@
+table {
+    border: 1.5px solid green;
+}
+table tr td{
+    border: 1.5px solid green; 
+}
+.first{
+    background-color: green;
+    color: white;
+}

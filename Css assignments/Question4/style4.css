@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(207, 240, 240);
+}
+a:link{
+    color: red;
+    text-decoration: underline;
+}
+a:visited{
+    color: darkgreen;
+}
+a:hover{
+    color: purple;
+}

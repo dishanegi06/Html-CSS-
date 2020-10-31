@@ -1,0 +1,15 @@
+table{
+  border-collapse: collapse;
+}
+  table tr td{
+    
+    border:1px solid black;
+    width : 50px;
+    height : 50px;
+  }
+  .first{
+    background-color: dimgray;
+  }
+.second{
+  background-color: darkgrey;
+}

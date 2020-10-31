@@ -1,0 +1,13 @@
+.first {
+    border: 2px solid red;
+    outline: 6px dotted rgb(150, 243, 150);
+    width 60%;
+    align-content: center;;
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+div{
+    border: 2.5px solid rgb(201, 226, 229);
+    box-sizing: content-box;
+}
